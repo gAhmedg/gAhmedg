@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <br><br>
+  <br><br> <br><br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
