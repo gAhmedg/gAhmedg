@@ -70,6 +70,6 @@
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
-<h3 align="left"> I'm currently seeking an entry-level position or internship as Devops Engineer .</h3>
+<b align="left"> I'm currently seeking an entry-level position or internship as Devops Engineer .</b>
 
 ###
