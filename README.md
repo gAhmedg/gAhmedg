@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ahmed and i recently graduated from  Helwan University .As a Communication and Electronics Engineering graduated , I'm currently seeking an entry-level position in a space that allow me to improve and expand my skills and learn more about Devops.<br>The work your company is doing is exactly what I'm looking for<br>I have finished Udacity nanodegree Aws Devops cloud .<br>I have finished 4 months iti Devops track <br>Also i am Aws certified cloud practitioner.</p>
+<p align="left">I'm Ahmed and i recently graduated from  Helwan University .As a Communication and Electronics Engineering graduated , I'm currently seeking an entry-level position in a space that allow me to improve and expand my skills and learn more about Devops.<br><br>I have finished Udacity nanodegree Aws Devops cloud .<br>I have finished 4 months iti Devops track <br>Also i am Aws certified cloud practitioner.</p>
 
 ###
 
