@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Igraduated from Helwan University with a passion for automating and scaling infrastructure. I have hands-on experience in cloud platforms, CI/CD, containerization, monitoring, and infrastructure as code. I'm currently seeking an entry-level opportunity in DevOps or SRE to grow my expertise and contribute to real-world systems.
+I graduated from Helwan University with a passion for automating and scaling infrastructure. I have hands-on experience in cloud platforms, CI/CD, containerization, monitoring, and infrastructure as code. Currently seeking an entry-level opportunity in DevOps or SRE to grow my expertise and contribute to real-world systems.
 
 - **Graduated in Communication and Electronics Engineering**
 - **Completed**:
@@ -52,7 +52,14 @@ Igraduated from Helwan University with a passion for automating and scaling infr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /> MySQL  
 
 ---
+### 📈 My GitHub Stats
+<div align="center">
 
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=gAhmedg&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gAhmedg&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=30363D)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
